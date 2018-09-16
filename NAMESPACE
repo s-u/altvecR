@@ -1,0 +1,2 @@
+useDynLib(altvecR, .registration = TRUE, .fixes = "C_")
+export(altvecR)
